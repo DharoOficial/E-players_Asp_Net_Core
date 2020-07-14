@@ -12,6 +12,10 @@ namespace E_Players_Asp_Net_Core.Models
         public string Imagem { get; set; }
         private const string PATH = "Database/equipe.csv";
 
+        /// <summary>
+        /// Lê todas as linhas do csv
+        /// </summary>
+        /// <param name="e">lista de equiupes</param>
         public void Create(Equipe e)
         {
             string[] linha = { Prepare(e) };
@@ -23,7 +27,6 @@ namespace E_Players_Asp_Net_Core.Models
 
         public List<Equipe> ReadAll()
         {
-            
             List<Equipe> equipes = new List<Equipe>();
             string[] linhas = File.ReadAllLines(PATH);
             foreach (var item in linhas)

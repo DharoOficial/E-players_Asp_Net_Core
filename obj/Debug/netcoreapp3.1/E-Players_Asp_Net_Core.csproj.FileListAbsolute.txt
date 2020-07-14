@@ -35,3 +35,4 @@ C:\Users\mercatudo\Documents\site\E-Players_Asp_Net_Core\obj\Debug\netcoreapp3.1
 C:\Users\mercatudo\Documents\site\E-Players_Asp_Net_Core\obj\Debug\netcoreapp3.1\E-Players_Asp_Net_Core.pdb
 C:\Users\mercatudo\Documents\site\E-Players_Asp_Net_Core\obj\Debug\netcoreapp3.1\E-Players_Asp_Net_Core.genruntimeconfig.cache
 C:\Users\mercatudo\Documents\site\E-Players_Asp_Net_Core\obj\Debug\netcoreapp3.1\E-Players_Asp_Net_Core.csproj.CopyComplete
+C:\Users\mercatudo\Documents\site\E-Players_Asp_Net_Core\obj\Debug\netcoreapp3.1\Razor\Views\Equipe\Index.cshtml.g.cs
