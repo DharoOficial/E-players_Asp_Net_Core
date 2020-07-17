@@ -20526,11 +20526,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\mercatudo\\Documents\\site\\E-Players_Asp_Net_Core\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\mercatudo\\Documents\\site\\E-Players_Asp_Net_Core\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -20553,6 +20548,11 @@
     {
       "FilePath": "c:\\Users\\mercatudo\\Documents\\site\\E-Players_Asp_Net_Core\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\mercatudo\\Documents\\site\\E-Players_Asp_Net_Core\\Views\\Noticia\\index.cshtml",
+      "TargetPath": "Views\\Noticia\\index.cshtml",
       "FileKind": "mvc"
     },
     {

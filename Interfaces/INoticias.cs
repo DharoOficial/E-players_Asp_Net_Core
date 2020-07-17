@@ -11,6 +11,6 @@ namespace E_Players_Asp_Net_Core.Interfaces
 
         void Update(Noticias n);
 
-        void Delete(int id);
+        void DeleteN(int Id);
     }
 }

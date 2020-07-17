@@ -50,11 +50,11 @@ namespace E_Players_Asp_Net_Core.Models
             linhas.Add( Prepare(n) );
             RewriteCSV(PATH, linhas);
         }
-        public void Delete(int id)
+        public void DeleteN(int Id)
         {
-            List<string> linhas = ReadAllLinesCSV(PATH);
-            linhas.RemoveAll(x => x.Split(";")[0] == id.ToString());
-            RewriteCSV(PATH, linhas);
+            List<string> linhasN = ReadAllLinesCSV(PATH);
+            linhasN.RemoveAll(x => x.Split(";")[0] == Id.ToString());
+            RewriteCSV(PATH, linhasN);
         }
 
 
